@@ -6,6 +6,8 @@ import (
 	"time"
 )
 
+//Playing the console game
+
 // Problem - Gopher RPG
 // Create a program which has three structs:
 // • Gopher
